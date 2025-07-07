@@ -32,8 +32,8 @@ This hackpad uses KMK firmware for everything, from mapping the switches to cont
 - clear cache in a browser
 - open elements in browser developer tools
 - open responsive design mode
-- Start VSCode Live Server
-- Open console in developer tools
+- start VSCode Live Server
+- open console in developer tools
 
 ## BOM:
 
