@@ -39,10 +39,10 @@ This hackpad uses KMK firmware for everything, from mapping the switches to cont
 
 Here is everything you need to make this hackpad
 
-5x Cherry MX Switches
-5x DSA Keycaps
-4x M3x5x4 Heatset inserts
-4x M3x16mm screws
-2x SK6812 MINI-E LEDs
-1x XIAO RP2040
-1x Case (2 printed parts)
+- 5x Cherry MX Switches
+- 5x DSA Keycaps
+- 4x M3x5x4 Heatset inserts
+- 4x M3x16mm screws
+- 2x SK6812 MINI-E LEDs
+- 1x XIAO RP2040
+- 1x Case (2 printed parts)
