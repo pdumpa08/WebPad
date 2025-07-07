@@ -37,7 +37,7 @@ This hackpad uses KMK firmware for everything, from mapping the switches to cont
 
 ## BOM:
 
-Here is everything you need to make this hackpad
+Here is everything you need to make this hackpad (All parts part of the approved kit)
 
 - 5x Cherry MX Switches
 - 5x DSA Keycaps
