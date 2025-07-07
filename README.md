@@ -18,7 +18,7 @@ It has 2 separate printed pieces: the top section and the bottom section. These 
 <img src=assets/case_split.png alt="case of WebPad" width="500"/>
 
 ## PCB:
-Below are my PCB design and schematic. I designed the schematic/PCB to match the needs of web developers, with 5 switches offering access to essential functions (described in the firmware section). Basic connection techniques like using both layers for traces were rquired and implemented. After a little research, I found the lack of a ground plane will liekly not affect functionality significantly in this product.
+Below are my PCB design and schematic. I designed the schematic/PCB to match the needs of web developers, with 5 switches offering access to essential functions (described in the firmware section). Basic connection techniques like using both layers for traces were rquired and implemented. After a little research, I found that using a ground plane will liekly improve functionality in this product.
 
 <img src=assets/PCB_design.png alt="PCB Design" width="500"/>
 
