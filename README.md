@@ -6,9 +6,9 @@ WebPad is a macropad made for web developers everywhere. It uses a system of 5 c
 
 ## Features:
 - 3D printed case
-- 2RGB SK6812MINI LEDs for underglow (open to customization)
+- 2 RGB SK6812MINI LEDs for underglow (open to customization)
 - 5 custom-mapped keys (Cherry MX keys)
-- All code using kmk firmware (easy to modfiy if you know Python)
+- All code using kmk firmware (easy to modify if you know Python)
 
 ## CAD Model:
 Everything fits together using 4 M3 screws and heatset inserts, used on the case
